@@ -1,0 +1,6 @@
+curl_cffi
+selectolax
+ipykernel
+notebook
+pyarrow
+selenium
