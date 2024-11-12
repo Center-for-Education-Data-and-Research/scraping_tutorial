@@ -8,7 +8,7 @@ This session is split into two parts:
 2. **CEDR_Calder Web Scraping Tutorial**: Focuses on practical exercises in web scraping using different tools such as Selenium and curl_cffi.
 
 ---
-### Getting Started
+## Getting Started
 
 To start using the scripts and tools mentioned, click below to open on Colab or download the files and run locally. Colab is recommended as you don't need to setup python locally.
 
