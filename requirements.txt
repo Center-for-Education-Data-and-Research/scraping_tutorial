@@ -4,3 +4,4 @@ ipykernel
 notebook
 pyarrow
 selenium
+rich

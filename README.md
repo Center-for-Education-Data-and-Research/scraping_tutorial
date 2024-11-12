@@ -1,6 +1,8 @@
 # Web Scraping with Python: A Basic Tutorial
 
-This tutorial is designed to introduce you to the basics of web scraping with Python. This is split into two parts:
+This tutorial is designed to introduce you to the basics of web scraping with Python. OpenAI helped generate this, so there may be some errors that will be fixed as they are found.
+
+This session is split into two parts:
 
 1. **Python and Web Scraping 101**: Provides foundational Python skills necessary for web scraping, along with an introduction to web scraping concepts and techniques.
 2. **CEDR_Calder Web Scraping Tutorial**: Focuses on practical exercises in web scraping using different tools such as Selenium and curl_cffi.
@@ -8,7 +10,7 @@ This tutorial is designed to introduce you to the basics of web scraping with Py
 ---
 ### Getting Started
 
-To start using the scripts and tools mentioned, click below to open on Colab or download the files and run locally.
+To start using the scripts and tools mentioned, click below to open on Colab or download the files and run locally. Colab is recommended as you don't need to setup python locally.
 
  <a target="_blank" href="https://colab.research.google.com/github/Center-for-Education-Data-and-Research/scraping_tutorial/blob/main/python_and_web_scraping_101.ipynb">Python 101 -->
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Python 101 In Colab"/>
@@ -58,7 +60,7 @@ This section provides hands-on exercises using different tools to gather and man
 
 ---
 
-## Resources:
+## External Resources:
 
 ### Documentation:
 - [Python](https://docs.python.org/3.12/index.html)
@@ -71,8 +73,7 @@ This section provides hands-on exercises using different tools to gather and man
 ### Tutorials and Practice
 - [John Watson Rooney @youtube](https://www.youtube.com/@JohnWatsonRooney)
 - [CSS Diner - CSS selector challenges](https://flukeout.github.io/)
-
-
+- [XPATH Cheatsheet](https://devhints.io/xpath)
 
 ### License
 
